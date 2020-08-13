@@ -9,6 +9,6 @@ public class CodeStarController {
 
     @RequestMapping(value = "/say", method = RequestMethod.GET)
     public String sayHello(){
-        return "Hello AwsCodeStar!";
+        return "Hello AwsCodeStar commit!";
     }
 }
